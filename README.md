@@ -11,4 +11,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 Лицензия MIT распространяется только на код. Музыка и изображения из Warcraft III не входят в эту лицензию и остаются собственностью Blizzard Entertainment.
-При запросе об удалении поста все находящиеся тут материалы будут удалены безвозвратно 
